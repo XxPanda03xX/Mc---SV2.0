@@ -1,0 +1,10 @@
+{
+  "betternether:plugin": true,
+  "crockpot:com.github.nosrick.crockpot.compat.wthit": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:fabric": true,
+  "waila:team_reborn_energy": true
+}
